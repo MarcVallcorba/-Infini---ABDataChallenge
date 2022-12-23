@@ -1,7 +1,7 @@
 # Infini-ABDataChallenge
 
 This repository contains all the related content of the participation of the Infini team 
-(composed by Martí Palou, Maria Fernández, Alexia Lozano, Bruno monreal and Marc Vallcorba)
+(composed by Martí Palou, Maria Fernández, Alexia Lozano, Bruno Monreal and Marc Vallcorba)
 in the Aigües de Barcelona AB Data Challenge.
 The project was about **the relation between water consumtion and the events in the city of Barcelona** and
 was developed from September 2022 to December 2022, reaching the final stage of the challenge.
